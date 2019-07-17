@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/DesignPatterns/v16
+/Polymorphism/bin/Debug/netcoreapp2.1
+/Polymorphism/obj
+/Strategy/obj
+/TemplateMethod/obj
+/TemplateMethod/bin/Debug/netcoreapp2.1
