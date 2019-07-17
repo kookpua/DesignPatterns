@@ -8,3 +8,4 @@
 /Strategy/obj
 /TemplateMethod/obj
 /TemplateMethod/bin/Debug/netcoreapp2.1
+*.dtbcache
