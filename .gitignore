@@ -28,3 +28,6 @@
 *.lock
 *.ide
 *.suo
+/李建忠 - C++设计模式_C#代码/Observer/obj
+/李建忠 - C++设计模式_C#代码/Strategy/bin/Debug/netcoreapp2.1
+/李建忠 - C++设计模式_C#代码/Observer/bin/Debug/netcoreapp2.1
