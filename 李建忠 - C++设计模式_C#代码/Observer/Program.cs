@@ -4,6 +4,7 @@ using System.Collections;
 namespace Observer
 {
     /// <summary>
+    /// 观察者模式
     /// 此demo来自维基百科：https://zh.wikipedia.org/wiki/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F
     /// 印象笔记镜像：https://app.yinxiang.com/fx/7d005479-38d3-4613-94a5-31272383dded
     /// </summary>
